@@ -5,7 +5,7 @@
   "white_mode": false,
 
   "aim": {
-    "color": "yellow",
+    "color": "red",
     "fov_x": 80,
     "fov_y": 37,
     "speed": 10,
